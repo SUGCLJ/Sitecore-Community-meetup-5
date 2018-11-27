@@ -1,6 +1,6 @@
 # Sitecore Community meetup #5
 
-Meetup was Thursday, November 22, 2018 at ThatDevSpace, and the event sponsered by ThatDevSpace and Addition.
+Meetup was Thursday, November 22, 2018 at ThatDevSpace, and the event sponsered by Ratio and Addition.
 
 Agenda:
 
